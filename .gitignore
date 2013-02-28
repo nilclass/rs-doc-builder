@@ -1,0 +1,5 @@
+*~
+heads/*
+web/remotestorage/heads/*
+shared-repo/*
+web/remotestorage/heads.json
